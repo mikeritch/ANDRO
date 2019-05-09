@@ -5,8 +5,4 @@
 .sass-cache/
 .css.map
 .scss.map
-.scss
 
-*.js
-!js/bin/.js
-!js/toasts.js

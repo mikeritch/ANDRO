@@ -17,13 +17,10 @@ body {
   opacity: 0.9;
   max-height: 50vh; }
 
+.parallax-container .parallax img {
+  z-index: -5; }
+
 /*Text*/
-p {
-  font-size: 1.6em; }
-
-li {
-  font-size: 1.55em; }
-
 /*DROPDOWN CSS*/
 .dropdown {
   float: left;
