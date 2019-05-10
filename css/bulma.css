@@ -1,5 +1,4 @@
 @charset "UTF-8";
-/*Import Bulma Stylersheet*/
 /*! bulma.io v0.7.4 | MIT License | github.com/jgthms/bulma */
 @keyframes spinAround {
   from {
@@ -6780,33 +6779,3 @@ label.panel-block {
 .footer {
   background-color: #fafafa;
   padding: 3rem 1.5rem 6rem; }
-
-/*----------------- Primary CSS -----------------*/
-/*Background and Styling*/
-/**/
-/*Parallax*/
-.parallax {
-  background-image: url(/img/bg.jpg);
-  background-color: white;
-  min-height: 10em;
-  min-height: 30vh;
-  height: 30%;
-  opacity: 0.65;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover; }
-  .parallax #bg1 {
-    background-image: url(/img/hw.jpg); }
-  .parallax #bg2 {
-    background-image: url(/img/bg.jpg); }
-
-.navbar .navbar-menu {
-  padding: 1em; }
-
-/*Text*/
-#pagetitle {
-  font-size: 10vw;
-  white-space: nowrap; }
-
-/*DROPDOWN CSS*/
