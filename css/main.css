@@ -6796,11 +6796,11 @@ label.panel-block {
   background-repeat: no-repeat;
   background-size: cover; }
   .parallax#bg1 {
-    background-image: url(andro/img/bg1.jpg); }
+    background-image: url(.../img/bg1.jpg); }
   .parallax#bg2 {
-    background-image: url(andro/img/bg2.jpg); }
+    background-image: url(.../img/bg2.jpg); }
   .parallax#bg3 {
-    background-image: url(andro/img/bg3.jpg); }
+    background-image: url(.../img/bg3.jpg); }
 
 .navbar .navbar-menu {
   padding: 1em; }
