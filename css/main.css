@@ -6786,7 +6786,6 @@ label.panel-block {
 /**/
 /*Parallax*/
 .parallax {
-  background-image: url(/img/bg.jpg);
   background-color: white;
   min-height: 10em;
   min-height: 30vh;
@@ -6796,10 +6795,12 @@ label.panel-block {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; }
-  .parallax #bg1 {
-    background-image: url(/img/hw.jpg); }
-  .parallax #bg2 {
-    background-image: url(/img/bg.jpg); }
+  .parallax#bg1 {
+    background-image: url(/img/bg1.jpg); }
+  .parallax#bg2 {
+    background-image: url(/img/bg2.jpg); }
+  .parallax#bg3 {
+    background-image: url(/img/bg3.jpg); }
 
 .navbar .navbar-menu {
   padding: 1em; }
